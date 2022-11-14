@@ -1,0 +1,72 @@
+{
+    "Filmes-de-comedia": [
+      {
+        "id": 1,
+        "nome": "O Auto da Compadecida",
+        "dirigido": "Guel Arraes",
+        "ano": 2000,
+        "imagem": "https://media.fstatic.com/dCZITfplV7V2M6yBzgplVeycG5w=/290x478/smart/media/movies/covers/2013/04/0b33712fa48c7178cde24ad73ffe536f.jpg"
+      },
+      {
+        "id":2,
+        "nome": "Como Se Fosse a Primeira Vez",
+        "dirigido": " Peter Segal",
+        "ano": 2004,
+        "imagem": "https://media.fstatic.com/UaJ3I6WvDcYbodLPO1xjGKFMI10=/210x312/smart/media/movies/covers/2010/08/8b2652230edc87766a2bc4770d8b6a6d.jpg"
+      },
+      {
+        "id":3,
+        "nome": "Viva: A Vida é Uma Festa ",
+        "dirigido": "Lee Unkrich",
+        "ano": 2017,
+        "imagem": "https://media.fstatic.com/nUHDVabfdh0CI3cEIkTtNA3raXE=/290x478/smart/media/movies/covers/2017/06/coco_ver2_xlg.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Lilo & Stitch ",
+        "dirigido": "Chris Sanders & Dean DeBlois",
+        "ano": 2002,
+        "imagem": "https://media.fstatic.com/J4YgcrV-N3RI0-GrQfXzgHLssOM=/290x478/smart/media/movies/covers/2011/07/b04278573a1da21d53e404d5a20db4ab.jpg"
+      }
+    ],
+    "Produtoras-famosas": [
+      {
+        "id": 1,
+        "nome": "SONY PICTURES ENTERTAINMENT"
+      },
+      {
+        "id": 2,
+        "nome": "TIME WARNER"
+      },
+      {
+        "id": 3,
+        "nome": "UNIVERSAL PICTURES"
+      },
+      {
+        "id": 4,
+        "nome": "21ST CENTURY FOX"
+      }
+    ],
+    "Cinemas-famosos-do-Rio-De-Janeiro": [
+      {
+        "id": 1,
+        "nome": "UCI New York City Center",
+        "local":"Avenida Das Américas 5000 - Loja 301 - Barra da Tijuca 22640-102 Rio de Janeiro"
+      },
+      {
+        "id": 2,
+        "nome": "Kinoplex West Shopping",
+        "local":"Estrada do Mendanha 550 - Campo Grande 23087-284 Rio de Janeiro"
+      },
+      {
+        "id": 3,
+        "nome": "UCI Kinoplex NorteShopping",
+        "local":"Avenida Dom Helder Camara 5080 - Piedade 20771-001 Rio de Janeiro"
+      },
+      {
+        "id": 4,
+        "nome": "Cinesystem Bangu Shopping",
+        "local":"Rua Fonseca 240 - Bangu 21820-005 Rio de Janeiro"
+      }
+    ]
+  }
